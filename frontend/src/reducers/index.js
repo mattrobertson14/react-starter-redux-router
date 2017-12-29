@@ -1,6 +1,6 @@
-const initialState = null;
+// import { combineReducers } from 'redux';
 
-// User combineReducer from react-redux
+const initialState = null;
 
 function rootReducer (state = initialState, action) {
 	return state;
